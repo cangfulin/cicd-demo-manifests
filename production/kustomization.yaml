@@ -9,5 +9,4 @@ patches:
 apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 images:
-- name: vincentfulin/cicd-demo
-  newTag: main-b7d5a0f
+- name: vincentfulin/ci-cd
