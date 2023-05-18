@@ -10,3 +10,4 @@ apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 images:
 - name: vincentfulin/ci-cd
+  newTag: main-2ad0e1c
