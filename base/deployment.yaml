@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: cicd-demo-container
-        image: vincentfulin/cicd-demo:latest
+        image: vincentfulin/ci-cd:latest
         ports:
         - containerPort: 8000
         env:
