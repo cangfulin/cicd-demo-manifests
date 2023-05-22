@@ -12,4 +12,4 @@ images:
 - name: minghsu0107/cicd-demo
   newTag: main-b7d5a0f
 - name: vincentfulin/ci-cd
-  newTag: main-0bfa1db280d979ec1e9565d6390ef8b3b91db05b
+  newTag: 8850fff945df069377b6110d6b6eefcf0ae3262c
