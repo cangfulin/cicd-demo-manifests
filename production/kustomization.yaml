@@ -11,3 +11,5 @@ kind: Kustomization
 images:
 - name: minghsu0107/cicd-demo
   newTag: main-b7d5a0f
+- name: vincentfulin/ci-cd
+  newTag: main-7f42d11
